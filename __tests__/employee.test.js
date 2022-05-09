@@ -1,7 +1,7 @@
 const Employee = require('../lib/Employee');
 
 test('Creates an employee object', () => {
-    const employee= new employee('Josh Smith','9876543','Josh.Smith@gmail.com');
+    const employee= new Employee('Josh Smith','9876543','Josh.Smith@gmail.com');
 
     expect(employee.name).toEqual('Josh Smith');
     expect(employee.id).toEqual('9876543');
@@ -12,8 +12,8 @@ test('Creates an employee object', () => {
 
 
 test("gets the employee's name", () => {
-    const employee = new Employee();
-    expect(employee.getName()).toBe('Dave Davis');
+    const employee = new Employee('Josh Smith','9876543','Josh.Smith@gmail.com');
+    expect(employee.getName()).toBe('Josh Smith');
 });
 
 
