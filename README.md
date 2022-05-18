@@ -17,11 +17,16 @@ Step 4: After Running Node index.js and answering the questions asked an HTML an
 
 
 
+Usage: https://drive.google.com/file/d/1bkCHsOWYNlxIqRz0_ryF30EWmdD1qUgt/view
+
+
 
 Credits: SMU.com
 
+
+
 My Contact Info:
-Name; Jide Adesanya
+Name: Jide Adesanya
 GitHub: Jide1012
 My Email: Jide1012@yahoo.com
 
